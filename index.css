@@ -1,0 +1,22 @@
+.container-fluid {
+    background-color: aqua;
+padding: 11px;
+font-size: 15px;
+font-weight: 600;
+
+}
+/* #container2 {
+ padding-top: 572px;
+padding-left:  16px;
+padding-right: 15px;
+margin: 0;
+
+} */
+  .cantainer-op {
+           display: flex;
+            justify-content:space-between;
+        }
+        .cantainer-op2{
+               display: flex;
+            justify-content:space-between;
+        }
